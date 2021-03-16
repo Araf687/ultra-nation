@@ -1,0 +1,14 @@
+.country{
+    display: flex;
+    padding: 10px;
+    border:2px solid gray;
+    margin:0.5em;
+}
+.country img{
+    width: 250px;
+    margin-top:20px;
+}
+.country .description{
+    margin-left: 40px;
+    
+}
